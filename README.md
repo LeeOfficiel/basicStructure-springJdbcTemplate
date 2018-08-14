@@ -1,4 +1,4 @@
-# amdatashift
+# ssm基本框架搭建
 springmvc spring mysql结构搭建
 
 #简单springmvc +spring
